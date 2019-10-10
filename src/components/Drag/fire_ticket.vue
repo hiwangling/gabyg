@@ -5,7 +5,7 @@
       plain
       size="small"
       style="position: absolute;
-    right: 70px;"
+    right: 80px;"
       @click="print"
     >打印</el-button>
     <section ref="print">
